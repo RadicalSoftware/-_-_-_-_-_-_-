@@ -2,13 +2,13 @@
 
 
 # ΜΕΛΕΤΗ ΓΙΑ ΤΗΝ ΤΕΧΝΗ ΗΧΟΥ
-
+Ξαγοράρη Μαργαρίτα - ADA2019010
 
 ### ΕΙΣΑΓΩΓΗ
 
-Η παρούσα μελέτη αναπτύσσεται στο πλαίσιο αποπεράτωσης εργασίας για το μάθημα Διαδραστικός Ηχητικός Σχεδιασμός. Βάση για την ανάπτυξη των μερών της εργασίας, αποτελεί η διάλεξη του καθηγητή Christoph Cox, με θέμα A History of Sound Art - που έλαβε χώρα στις 18 Ιανουαρίου 2017, για το Barnes Foundation. 	
+Η παρούσα μελέτη αναπτύσσεται στο πλαίσιο αποπεράτωσης εργασίας για το μάθημα Διαδραστικός Ηχητικός Σχεδιασμός. Βάση για την ανάπτυξη των μερών της εργασίας, αποτελεί η διάλεξη του καθηγητή Christoph Cox, με θέμα A Brief History of Sound Art - που έλαβε χώρα στις 18 Ιανουαρίου 2017, για το Barnes Foundation. 	
 	
-Σε πρώτο στάδιο θα αποδοθεί η απομαγνητοφώνηση και μετάφραση του αποσπάσματος 1:23:40 - 1:31:40, όπως έχει οριστεί σε σχετικό πίνακα. Σε δεύτερο στάδιο θα λάβει χώρα σχολιασμός - με εστίαση σε πέντε καλλιτέχνες περί των οποίων έχει γίνει λόγος στη διάλεξη. Τέλος, με αφορμή ένα σημείο από την ομιλία, θα αποτυπωθούν σκέψεις και προθέσεις για μελλοντικό πειραματισμό.
+Σε πρώτο στάδιο θα αποδοθεί η απομαγνητοφώνηση και μετάφραση του αποσπάσματος 1:23:40 - 1:31:40, όπως έχει οριστεί σε σχετικό πίνακα. Σε δεύτερο στάδιο θα λάβει χώρα σχολιασμός - με εστίαση σε πέντε καλλιτέχνες περί των οποίων γίνεται αναφορά από τον Cox. Τέλος, με αφορμή ένα σημείο από την ομιλία, θα αποτυπωθούν σκέψεις και προθέσεις για μελλοντικό πειραματισμό.
 
 
 ### ΜΕΡΟΣ 1ο 
@@ -105,9 +105,9 @@ Russolo - και που μας προσκαλει κατά μία έννοια �
 
 ### ΜΕΡΟΣ 2ο 
 
-#### ΕΙΣΑΓΩΓIKΗ ΤΟΠΟΘΕΤΗΣΗ
+#### ΕΙΣΑΓΩΓIKΗ ΤΟΠΟΘΕΤΗΣΗ ΣΕ ΣΧΕΣΗ ΜΕ ΤΟ ΣΥΝΟΛΟ ΤΗΣ ΔΙΑΛΕΞΗΣ
 
-Η ομιλία του Cox με τίτλο The History of Sound Art, υπήρξε ιδιαίτερα διαφωτιστική -κυρίως επειδή με βοήθησε να θέσω σε μια σειρά, συγκεχυμένες μέχρι πρότινος πληροφορίες - που αφορούσαν στην πορεία και εξέλιξη των δεδομένων στο πεδίο της Τέχνης Ήχου (που όπως λέει και ο Cox, είναι μια πολύ αδρή ετικέτα, που χρησιμοποιείται για να περιγράψει ένα μεγάλο σύνολο καλλιτεχνικής δραστηριότητας). 
+Η ομιλία του Cox με τίτλο A Brief History of Sound Art, υπήρξε ιδιαίτερα διαφωτιστική -κυρίως επειδή με βοήθησε να θέσω σε μια σειρά, συγκεχυμένες μέχρι πρότινος πληροφορίες - που αφορούσαν στην πορεία και εξέλιξη των δεδομένων στο πεδίο της Τέχνης Ήχου (που όπως λέει και ο Cox, είναι μια πολύ αδρή ετικέτα, που χρησιμοποιείται για να περιγράψει ένα μεγάλο σύνολο καλλιτεχνικής δραστηριότητας). 
 
 Προκειμένου για την ανάπτυξη σχολιασμού, επέλεξα να εστιάσω σε πέντε καλλιτέχνες, με κριτήριο το αποτύπωμα που μου άφησαν με το πέρας της ομιλίας (σε επίπεδο ανάπτυξης περαιτέρω σκέψης). 
 
@@ -123,7 +123,7 @@ Russolo - και που μας προσκαλει κατά μία έννοια �
   
   Το 1913, σε γράμμα προς τον φίλο του φουτουριστή συνθέτη Francesco Balilla Pratella (Russolo, 1986, σ. 23), θα διατυπώσει τις θέσεις του για τη μουσική - με το φουτουριστικό μανιφέστο The Art of Noises, όπου θα επισημάνει την ανάγκη αξιοποίησης των απεριόριστων δυνατοτήτων των θορύβων (Russolo, 1986, σ. 25). Έκτοτε θα στραφεί στην κατασκευή οργάνων - των intonarumori (noise intoners), για να εμβαθύνει πρακτικά σε αυτές τις θέσεις. Το 1921 θα προβεί στην κατασκευή ενός άλλου οργάνου, του rumorarmonio (noise harmonium). (Chessa, 2012, σ. 4)
   
-   <img width="500" height= "300" src="./RUSSOLO.jpg">
+   <img width="350" height= "390" src="./RUSSOLO.jpg">
      <b> Εικ. 1 Russolo's intonarumori </b>
 
 
@@ -152,8 +152,8 @@ Russolo - και που μας προσκαλει κατά μία έννοια �
 
 Από το 2003, έχει ξεκινήσει τη σειρά Electrical Walks, όπου το κοινό μπορεί να ακούσει - μέσα από ειδικής κατασκευής ακουστικά, τα κρυμμένα ηλεκτρομαγνητικά κύματα των πόλεων. (Electrical Walks, Biography)
 
-<img width="474" height= "345" src="./KUBISCH.jpg">
-     <b> Εικ. 4 Christina Kubisch, Electrical Walks  </b>
+<img width="474" height= "345" src="./KUBISCH.PNG">
+     <b> Εικ. 4 Electrical Walks  </b>
 
 #### Ernst Karel
 
@@ -166,6 +166,10 @@ Russolo - και που μας προσκαλει κατά μία έννοια �
 Επίσης, έχει πραγματοποιήσει συνεργασίες με τους Veronica Kusumariati (Expedition Content, 2020),  Lucien Castaing-Taylor και Véréna Paravel (Ah humanity!, 2015), Toby Lee και Pawel Wojtasik (Single Stream, 2014).
 
 Από το 2006 μέχρι το 2017 ανέλαβε τη διεύθυνση στο Sensory Ethnography Lab στο Πανεπιστήμιο του Χάρβαρντ, κάνοντας ήχο μεταπαραγωγής για φιλμ  - μεταξύ των οποίων τα The Iron Ministry, Manakamana και Leviathan. (Ernst Karel, bio)
+
+<img width="460" height= "345" src="./KAREL.jpeg">
+     <b> Εικ. 5 Ο E.Karel κατά την ηχογράφηση του Heard Laboratories στο Πανεπιστήμιο του Χάρβαρντ  </b>
+
 
 
 ### Α. ΠΕΝΤΕ ΣΧΟΛΙΑ ΠΑΝΩ ΣΤΗΝ ΟΜΙΛΙΑ ΤΟΥ C.COX
@@ -243,7 +247,7 @@ O λόγος που αναφέρομαι στον εν λόγω καλλιτέχ
 Πράγματι, όπως λέει ο Cox, είναι ένα φιλμ, εξωπραγματικό ηχητικά.
   
 
-### Β. ΜΕΛΛΟΝΤΙΚΕΣ ΠΡΟΘΕΣΕΙΣ ΓΙΑ ΠΕΙΡΑΜΑΤΙΣΜΟ
+### Β. ΠΡΟΘΕΣΕΙΣ ΓΙΑ ΜΕΛΛΟΝΤΙΚΟ ΠΕΙΡΑΜΑΤΙΣΜΟ
 
 #### Ειδικότερη εστίαση στο έργο της Christina Kubish - Η ιδέα της πρόσβασης σε μια άλλη διάσταση δεδομένων
 
@@ -267,38 +271,72 @@ Russolo, L. (1986). The Art of Noises. Translated by Barclay Brown. New York: Pe
 ### ΔΙΚΤΥΑΚΟΙ ΤΟΠΟΙ
 
 The Art Story. John Cage. Ημερομηνία επίσκεψης Ιούνιος 29, 2020.
+
 https://www.theartstory.org/artist/cage-john/
 
-Christina Kubisch. Electrical Walks. Ημερομηνία επίσκεψης Ιούνιος 25, 2020
+Christina Kubisch. Electrical Walks. Ημερομηνία επίσκεψης Ιούνιος 25, 2020.
+
 https://electricalwalks.org/about/
 
 Wikipedia. Alvin Lucier. Ημερομηνία επίσκεψης Ιούνιος 26, 2020.
+
 https://en.wikipedia.org/wiki/Alvin_Lucier
 
 Ernst Karel. Ημερομηνία επίσκεψης Ιούνιος 26, 2020.
+
 http://ek.klingt.org
 
 ### ΟΠΤΙΚΟΑΚΟΥΣΤΙΚΟ ΥΛΙΚΟ
 
 Christoph Cox, History of Sound Art, Barnes Foundation. Ημερομηνία επίσκεψης Ιούνιος 20, 2020.
+
 https://youtu.be/hh_5_CAySXY
 
 Leviathan (2012), Player Unknown. Ημερομηνία επίσκεψης Ιούνιος 22, 2020.
+
 https://www.youtube.com/watch?v=YP1eC55tW4w
 
 Damien Riehl, Copyrighting all the melodies to avoid accidental infringement, TEDxMinneapolis - TEDx Talks. Ημερομηνία επίσκεψης Ιούνιος 25, 2020.
+
 https://www.youtube.com/watch?v=sJtm0MoOgiU
 
 John Cage's 4’33”, Joel Hochberg. Ημερομηνία επίσκεψης Ιούνιος 20, 2020.
+
 https://www.youtube.com/watch?v=JTEFKFiXSx4&t=395s
 
 Christina Kubisch, Electrical Walks, Goethe-Institute Russland. Ημερομηνία επίσκεψης Ιούνιος 29, 2020.
+
 https://www.youtube.com/watch?v=5tCphr8pbFk
 
   
-  
+### ΠΗΓΕΣ ΕΙΚΟΝΩΝ
 
+Εικ 1.
 
+Alexander Lee, _The Art of Noises,_ Δεκέμβριος 12, 2017. Ημερομηνία επίσκεψης Ιούλιος 1, 2020.
+http://www.medienkunstnetz.de/works/intonarumori/
+
+Εικ 2.
+
+Rossella Smiraglia, _Quattro minuti e 33 secondi 4’33”. Il suono del silenzio (Cage),_ September 2, 2017. Ημερομηνία επίσκεψης Ιούλιος 1, 2020.
+https://www.wallofsoundgallery.com/en/john-cage-by-guido-harari-john-cage-C-bologna-C--i3066
+
+Εικ 3.
+
+Martha Joseph, _Collecting Alvin Lucier's I'm Sitting in a Room,_ January 20, 2015. Ημερομηνία επίσκεψης Ιούλιος 1, 2020.
+https://www.moma.org/explore/inside_out/2015/01/20/collecting-alvin-luciers-i-am-sitting-in-a-room/
+
+Εικ 4. 
+
+John Roach, _Electrical Walks – Christina Kubisch (since 2004),_ Ιανουάριος 31, 2018. Ημερομηνία επίσκεψης Ιούλιος 1,2020.
+
+http://www.spring2018.soundthemound.com/2018/01/31/electrical-walks-christina-kubisch-since-2004/
+
+Εικ 5.
+
+Marc Masters & Grayson Currin _The world of field recordings with Chris Watson, Ernst Karel, and Art Rosenbaum,_ Οκτώβρης 21, 2011. Ημερομηνία επίσκεψης Ιούλιος 1, 2020.
+
+https://pitchfork.com/features/the-out-door/8692-field-recording/?page=3
 
 
 
