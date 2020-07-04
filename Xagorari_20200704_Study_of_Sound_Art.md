@@ -152,8 +152,9 @@ Russolo - και που μας προσκαλει κατά μία έννοια �
 
 Από το 2003, έχει ξεκινήσει τη σειρά Electrical Walks, όπου το κοινό μπορεί να ακούσει - μέσα από ειδικής κατασκευής ακουστικά, τα κρυμμένα ηλεκτρομαγνητικά κύματα των πόλεων. (Electrical Walks, Biography)
 
-<img width="474" height= "345" src="./KUBISCH.PNG">
+<img width="474" height= "345" src="./KUBISCH.jpg">
      <b> Εικ. 4 Electrical Walks  </b>
+
 
 #### Ernst Karel
 
@@ -319,6 +320,7 @@ http://www.medienkunstnetz.de/works/intonarumori/
 Εικ 2.
 
 Rossella Smiraglia, _Quattro minuti e 33 secondi 4’33”. Il suono del silenzio (Cage),_ September 2, 2017. Ημερομηνία επίσκεψης Ιούλιος 1, 2020.
+
 https://www.wallofsoundgallery.com/en/john-cage-by-guido-harari-john-cage-C-bologna-C--i3066
 
 Εικ 3.
